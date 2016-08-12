@@ -8,7 +8,7 @@ Maker Media GmbH und c't, Heise Zeitschriften Verlag
 
 BLDC-Controller zum Selbstbau mit Platinenlayout
 
-Als Leistungs-MOSFETs kommen alle Typen mit 30 bis 60V Spannungsfestigkeit und min. 10A Strombelastbarkeit in Frage. Sie benötigen 3 Stück N-Kanal-MOSFETs (z.B. [IRFZ 34](https://www.reichelt.de/index.html?ACTION=3;ARTICLE=8819;SEARCH=IRFZ%2034) und 3 Stück P-Kanal-MOSFETs (z.B. [IRF 9Z34N](https://www.reichelt.de/index.html?ACTION=3;ARTICLE=8819;SEARCH=IRFZ%209Z34)).
+Als Leistungs-MOSFETs kommen alle Typen mit 30 bis 60V Spannungsfestigkeit und min. 10A Strombelastbarkeit in Frage. Sie benötigen 3 Stück N-Kanal-MOSFETs (z.B. [IRFZ 34](https://www.reichelt.de/index.html?ACTION=3;ARTICLE=8819;SEARCH=IRFZ%2034)) und 3 Stück P-Kanal-MOSFETs (z.B. [IRF 9Z34N](https://www.reichelt.de/index.html?ACTION=3;ARTICLE=8819;SEARCH=IRFZ%209Z34)).
 
 Das einseitige Platinenlayout wurde mit dem kostenlosen DesignSpark PCB 7.2 (für Windows) erstellt.
 
