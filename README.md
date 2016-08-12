@@ -14,4 +14,4 @@ Das Platinenlayout wurde mit dem kostenlosen DesignSpark PCB 7.2 (für Windows) 
 
 Die Sourcen können mit GCC-AVR (WinAVR) kompiliert werden. Das HEX-File lässt sich auch über die Arduino-IDE in einen ATmega328 mit Bootloader flashen.
 
-Bitte beachten Sie den Artikel in **Make: 5/2016**.
+Bitte beachten Sie den Artikel in **[Make: 5/2016 http://www.heise.de/make/inhalt/2016/04/102/]**.
